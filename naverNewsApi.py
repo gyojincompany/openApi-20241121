@@ -2,8 +2,8 @@ import urllib.request
 import datetime
 import json
 
-client_id = "oNkjxMAROssEBw5enKkU"
-client_secret = "e98SgRiuR2"
+client_id = ""
+client_secret = ""
 
 
 # 해당 url에 대한 접속 요청 후 정상적인 응답을 확인해서 결과를 반환해주는 함수

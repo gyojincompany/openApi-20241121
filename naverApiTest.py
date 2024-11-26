@@ -2,8 +2,8 @@ import os
 import sys
 import urllib.request
 
-client_id = "oNkjxMAROssEBw5enKkU"
-client_secret = "e98SgRiuR2"
+client_id = ""
+client_secret = ""
 encText = urllib.parse.quote("프로야구")
 url = "https://openapi.naver.com/v1/search/news?query=" + encText # JSON 결과
 # url = "https://openapi.naver.com/v1/search/blog.xml?query=" + encText # XML 결과
